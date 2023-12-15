@@ -16,9 +16,9 @@ Education
 
 Work experience
 ======
-* 2018: Programmer
+* 2018-2023: Programmer
   * Hengrui Pharma
-  * Duties included: E-Submission
+  * Duties included: Standardize clinical data and generate statistical charts, Review clinical documents, E-Submission, Communicate efficiently with all departments
 
   
 Skills
