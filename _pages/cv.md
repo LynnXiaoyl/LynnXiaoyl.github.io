@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2018-2023: Programmer
+* 2018: Programmer
   * Hengrui Pharma
   * Duties included: E-Submission
 
