@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from Wuhan University majoring in applied statistics. I am currently engaged in clinical data analysis in a pharmaceutical company. I am familiar with international CDISC standard and good at SAS software programming. I enjoy working with people and am happy to help others. 
-
+Welcome to my homepage, my name is Lynn, it's nice to meet you here. 
+I am a clinical programmer working for a pharmaceutical company with five years of experience and am very familiar with the CDISC standard and enjoy my current job. I really hope to have the opportunity to exchange and learn with you. In my spare time, I also have many other hobbies, such as gardening and reading, I also enjoy playing the ukulele, and if I have enough time, I am also very keen on travelling.
 
 Education
 ======
-* B.S. in China, Hubei Normal University, 2016
 * M.S. in China, Wuhan University, 2018
 
 Work experience
 ======
-* 2018-2023: Programmer
+* 2018-2023: Clinical Programmer
   * Hengrui Pharma
-  * Duties included: Standardize clinical data and generate statistical charts, Review clinical documents, E-Submission, Communicate efficiently with all departments
+  * Duties included: Provide statistical programming expertise in SAS for the production of analyses, tabulations, graphics, and listings from clinical trial data.  Review clinical documents, Creating documentation for new projects as well as updating existing programs to reflect new client needs or changes in industry standards. Conducting quality assurance testing to ensure that applications function properly and efficiently. Review CRF annotations and Statistical Analysis Plan (SAP) . Complete electronic submission of clinical documents, Communicate effectively with statisticians and data managers. Allocate the work tasks of programmers within the project.
 
   
 Skills
