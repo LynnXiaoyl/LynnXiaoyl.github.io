@@ -35,3 +35,4 @@ Skills
 For more info
 ------
 If you want to make friends with me, please scan the following QR code on wechat.
+"wechat.jpg"
